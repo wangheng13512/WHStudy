@@ -1,0 +1,6 @@
+framework module Pods_WHStudy_WHStudyDemoTests {
+  umbrella header "Pods-WHStudy-WHStudyDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

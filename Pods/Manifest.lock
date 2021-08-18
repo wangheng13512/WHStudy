@@ -1,0 +1,16 @@
+PODS:
+  - WHStudy (0.0.0.1)
+
+DEPENDENCIES:
+  - WHStudy (from `./Debug.podspec`)
+
+EXTERNAL SOURCES:
+  WHStudy:
+    :path: "./Debug.podspec"
+
+SPEC CHECKSUMS:
+  WHStudy: 8387a84c7d393981f7f18d8b658601bccc447bfc
+
+PODFILE CHECKSUM: 8e8bce72518b0538144e22a55357b9ab2a4e7b24
+
+COCOAPODS: 1.10.1
